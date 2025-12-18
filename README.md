@@ -112,7 +112,7 @@ The following data cleaning steps are applied:
 
 Below is a snapshot of the **Fraud Detection Risk Scorer – Executive Dashboard**, showcasing risk distribution, country-wise transactions, KPIs, filters, and transaction amount vs risk score analysis.
 
-![Fraud Detection Risk Scorer Executive Dashboard](Excel dashboard.png)
+![Excel dashboard.png](https://github.com/aloshiyamishra/Excel-project/blob/a135d08bc413b9ca17793323a4243ac3d84ebe4c/Excel%20dashboard.png)
 
 ---
 
